@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use the DAH dataset in your research or project, please cite it as follows."
+title: "DAH (DAtaset Hassaniya): An Open Dataset for Hassaniya Arabic"
+version: "1.0.0"
+authors:
+  - name: "Hassan-IA Community"
+date-released: "2025-10-20"
+repository-code: "https://github.com/Hassan-IA/DAH"
+license: "CC-BY-4.0"
+keywords:
+  - hassaniya
+  - dataset
+  - nlp
+  - open-source
